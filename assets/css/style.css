@@ -1,0 +1,9 @@
+.navbar-logo {
+    width: 15%;
+    padding-right: 0;
+    margin-right: 0;
+}
+.navbar-logo img {
+    width: 60%;
+    border-radius: 50%;
+}
